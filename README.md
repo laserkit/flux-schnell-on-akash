@@ -3,6 +3,9 @@
 GUI for the model is built in Python with Gradio SDK. Model weights load from huggingface repository ([black-forest-labs/FLUX.1-schnell](https://huggingface.co/black-forest-labs/FLUX.1-schnell)).
 
 ## How to deploy
+
+https://github.com/user-attachments/assets/69542d92-25b8-4dfb-929e-2135514b4d4c
+
 - Open [Akash Console](https://console.akash.network/) website
 - Connect your Keplr/Leap wallet with at least 0.5 AKT on it
 - Click **Deploy** button
